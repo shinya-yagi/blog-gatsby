@@ -10,8 +10,8 @@ function Kv() {
           <Row>
             <Col sm={12} className="mx-auto">
               <div className={Style.siteHeading}>
-                <h1>Gatsby blog</h1>
-                <span>A Blog by Gatsby.js</span>
+                <h1>Shinya Gallery</h1>
+                <span>アプリ紹介ブログ</span>
               </div>
             </Col>
           </Row>
